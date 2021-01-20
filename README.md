@@ -1,5 +1,5 @@
 # Blog Web App ✍️ 📝 
-A Full Stack Blog Website Application that lets you create and store your daily blogs conveniently.
+A Full Stack Blog Web Application that lets you create and store your daily blogs conveniently.
 
 # Technology Stack 💻
 - Node.js
