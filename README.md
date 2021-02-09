@@ -8,7 +8,7 @@ A Full Stack Blog Web Application that lets you create and store your daily blog
 
 # Usage ⚙️
 
-Make sure you have **Node** & **MongoDB** installed on your computer. Type these commands and press ```Enter``` in seperate terminals:
+Make sure you have **Node** & **MongoDB** installed on your computer. Type these commands in seperate terminals and press ```Enter```:
 ```
 npm i
 ```
